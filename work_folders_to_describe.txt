@@ -1,0 +1,80 @@
+# Automatically generated list of folders found in: C:\Users\vc51\OneDrive - Sun Life Financial
+# Maximum Scan Depth Relative to Start: 2
+# Generated on: 2025-05-02 13:21:35 SE Asia Standard Time (Vietnam Time)
+#
+# Instructions for use with 'generate_folder_notes.py':
+# 1. Review the folder paths below.
+# 2. Delete lines for folders you don't want to include in your final notes.
+# 3. Replace 'PLEASE ADD DESCRIPTION' after the '|' with your notes for each folder.
+# 4. Save this file.
+# 5. Run: python generate_folder_notes.py <this_file_name>.txt -o final_notes.md
+#---------------------------------------------------------------------------
+
+C:\Users\vc51\OneDrive - Sun Life Financial\01.WorkingData | PLEASE ADD DESCRIPTION
+C:\Users\vc51\OneDrive - Sun Life Financial\01.WorkingData\01. Network | PLEASE ADD DESCRIPTION
+C:\Users\vc51\OneDrive - Sun Life Financial\01.WorkingData\02. System | PLEASE ADD DESCRIPTION
+C:\Users\vc51\OneDrive - Sun Life Financial\01.WorkingData\03. Operation | PLEASE ADD DESCRIPTION
+C:\Users\vc51\OneDrive - Sun Life Financial\01.WorkingData\04. Project | PLEASE ADD DESCRIPTION
+C:\Users\vc51\OneDrive - Sun Life Financial\01.WorkingData\05. Security | PLEASE ADD DESCRIPTION
+C:\Users\vc51\OneDrive - Sun Life Financial\01.WorkingData\06. Team Management | PLEASE ADD DESCRIPTION
+C:\Users\vc51\OneDrive - Sun Life Financial\01.WorkingData\07. Resource | PLEASE ADD DESCRIPTION
+C:\Users\vc51\OneDrive - Sun Life Financial\01.WorkingData\08. Ad-hoc | PLEASE ADD DESCRIPTION
+C:\Users\vc51\OneDrive - Sun Life Financial\01.WorkingData\09.Other | PLEASE ADD DESCRIPTION
+C:\Users\vc51\OneDrive - Sun Life Financial\01.WorkingData\10.People | PLEASE ADD DESCRIPTION
+C:\Users\vc51\OneDrive - Sun Life Financial\01.WorkingData\11. Salfe Office | PLEASE ADD DESCRIPTION
+C:\Users\vc51\OneDrive - Sun Life Financial\01.WorkingData\12.logs | PLEASE ADD DESCRIPTION
+C:\Users\vc51\OneDrive - Sun Life Financial\02.Note | PLEASE ADD DESCRIPTION
+C:\Users\vc51\OneDrive - Sun Life Financial\02.Note\Sunlife | PLEASE ADD DESCRIPTION
+C:\Users\vc51\OneDrive - Sun Life Financial\03.Ebook | PLEASE ADD DESCRIPTION
+C:\Users\vc51\OneDrive - Sun Life Financial\04.Code | PLEASE ADD DESCRIPTION
+C:\Users\vc51\OneDrive - Sun Life Financial\04.Code\ITTool | PLEASE ADD DESCRIPTION
+C:\Users\vc51\OneDrive - Sun Life Financial\04.Code\ITtool-main | PLEASE ADD DESCRIPTION
+C:\Users\vc51\OneDrive - Sun Life Financial\04.Code\Restore_point | PLEASE ADD DESCRIPTION
+C:\Users\vc51\OneDrive - Sun Life Financial\04.Code\ScienceLogic | PLEASE ADD DESCRIPTION
+C:\Users\vc51\OneDrive - Sun Life Financial\04.Code\UD-NetMon-master | PLEASE ADD DESCRIPTION
+C:\Users\vc51\OneDrive - Sun Life Financial\04.Code\WIFI_CHECKING | PLEASE ADD DESCRIPTION
+C:\Users\vc51\OneDrive - Sun Life Financial\04.Code\checklist_testcase | PLEASE ADD DESCRIPTION
+C:\Users\vc51\OneDrive - Sun Life Financial\04.Code\devnet | PLEASE ADD DESCRIPTION
+C:\Users\vc51\OneDrive - Sun Life Financial\04.Code\diff_version1 | PLEASE ADD DESCRIPTION
+C:\Users\vc51\OneDrive - Sun Life Financial\04.Code\diff_version2 | PLEASE ADD DESCRIPTION
+C:\Users\vc51\OneDrive - Sun Life Financial\04.Code\docx_report_generate | PLEASE ADD DESCRIPTION
+C:\Users\vc51\OneDrive - Sun Life Financial\04.Code\github | PLEASE ADD DESCRIPTION
+C:\Users\vc51\OneDrive - Sun Life Financial\04.Code\libs | PLEASE ADD DESCRIPTION
+C:\Users\vc51\OneDrive - Sun Life Financial\04.Code\passx-password-manager-main | PLEASE ADD DESCRIPTION
+C:\Users\vc51\OneDrive - Sun Life Financial\04.Code\python-monitor | PLEASE ADD DESCRIPTION
+C:\Users\vc51\OneDrive - Sun Life Financial\04.Code\server-monnitor | PLEASE ADD DESCRIPTION
+C:\Users\vc51\OneDrive - Sun Life Financial\04.Code\system_monitor_dashboard | PLEASE ADD DESCRIPTION
+C:\Users\vc51\OneDrive - Sun Life Financial\04.Code\xml_parse | PLEASE ADD DESCRIPTION
+C:\Users\vc51\OneDrive - Sun Life Financial\05.Resources | PLEASE ADD DESCRIPTION
+C:\Users\vc51\OneDrive - Sun Life Financial\05.Resources\Devops | PLEASE ADD DESCRIPTION
+C:\Users\vc51\OneDrive - Sun Life Financial\05.Resources\Endpoint Security | PLEASE ADD DESCRIPTION
+C:\Users\vc51\OneDrive - Sun Life Financial\05.Resources\HR | PLEASE ADD DESCRIPTION
+C:\Users\vc51\OneDrive - Sun Life Financial\05.Resources\Leadersship | PLEASE ADD DESCRIPTION
+C:\Users\vc51\OneDrive - Sun Life Financial\05.Resources\Network-Devnet | PLEASE ADD DESCRIPTION
+C:\Users\vc51\OneDrive - Sun Life Financial\05.Resources\PVI Care | PLEASE ADD DESCRIPTION
+C:\Users\vc51\OneDrive - Sun Life Financial\05.Resources\Slide CCNA2 | PLEASE ADD DESCRIPTION
+C:\Users\vc51\OneDrive - Sun Life Financial\05.Resources\Strategic.Management.5th.Edition.1394161905 | PLEASE ADD DESCRIPTION
+C:\Users\vc51\OneDrive - Sun Life Financial\Apps | PLEASE ADD DESCRIPTION
+C:\Users\vc51\OneDrive - Sun Life Financial\Apps\Microsoft Edge | PLEASE ADD DESCRIPTION
+C:\Users\vc51\OneDrive - Sun Life Financial\Attachments | PLEASE ADD DESCRIPTION
+C:\Users\vc51\OneDrive - Sun Life Financial\Infra-Space | PLEASE ADD DESCRIPTION
+C:\Users\vc51\OneDrive - Sun Life Financial\Infra-Space\01. Network | PLEASE ADD DESCRIPTION
+C:\Users\vc51\OneDrive - Sun Life Financial\Infra-Space\02. System | PLEASE ADD DESCRIPTION
+C:\Users\vc51\OneDrive - Sun Life Financial\Infra-Space\03. Project | PLEASE ADD DESCRIPTION
+C:\Users\vc51\OneDrive - Sun Life Financial\Infra-Space\04. Ad-hoc | PLEASE ADD DESCRIPTION
+C:\Users\vc51\OneDrive - Sun Life Financial\Infra-Space\05.Standard Docs | PLEASE ADD DESCRIPTION
+C:\Users\vc51\OneDrive - Sun Life Financial\Infra-Space\06. ITSM | PLEASE ADD DESCRIPTION
+C:\Users\vc51\OneDrive - Sun Life Financial\Infra-Space\System_Network_Contract | PLEASE ADD DESCRIPTION
+C:\Users\vc51\OneDrive - Sun Life Financial\Meetings | PLEASE ADD DESCRIPTION
+C:\Users\vc51\OneDrive - Sun Life Financial\Microsoft Copilot Chat Files | PLEASE ADD DESCRIPTION
+C:\Users\vc51\OneDrive - Sun Life Financial\Microsoft Teams Chat Files | PLEASE ADD DESCRIPTION
+C:\Users\vc51\OneDrive - Sun Life Financial\OneNote Loop Files | PLEASE ADD DESCRIPTION
+C:\Users\vc51\OneDrive - Sun Life Financial\OneNote Uploads | PLEASE ADD DESCRIPTION
+C:\Users\vc51\OneDrive - Sun Life Financial\Tools | PLEASE ADD DESCRIPTION
+C:\Users\vc51\OneDrive - Sun Life Financial\Tools\Python311 | PLEASE ADD DESCRIPTION
+C:\Users\vc51\OneDrive - Sun Life Financial\Tools\VSCode-win32-x64-1.93.0 | PLEASE ADD DESCRIPTION
+C:\Users\vc51\OneDrive - Sun Life Financial\Tools\WinSCP-6.3.5-Portable | PLEASE ADD DESCRIPTION
+C:\Users\vc51\OneDrive - Sun Life Financial\Tools\mRemoteNG-Portable | PLEASE ADD DESCRIPTION
+C:\Users\vc51\OneDrive - Sun Life Financial\Transcribed Files | PLEASE ADD DESCRIPTION
+C:\Users\vc51\OneDrive - Sun Life Financial\Whiteboards | PLEASE ADD DESCRIPTION
+C:\Users\vc51\OneDrive - Sun Life Financial\Whiteboards\Annotations | PLEASE ADD DESCRIPTION
